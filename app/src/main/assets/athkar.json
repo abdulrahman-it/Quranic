@@ -1,0 +1,96 @@
+{
+  "morning": [
+    {
+      "id": 101,
+      "text": "أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلَّهِ، وَالْحَمْدُ لِلَّهِ، لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ.",
+      "translation": "We have entered the morning and the kingdom belongs to Allah...",
+      "source": "رواه مسلم • تكرار: ١",
+      "target": 1
+    },
+    {
+      "id": 102,
+      "text": "اللّهُمَّ بِكَ أَصْبَحْنَا وَبِكَ أَمْسَيْنَا وَبِكَ نَحْيَا وَبِكَ نَمُوتُ وَإِلَيْكَ النُّشُورُ.",
+      "translation": "O Allah, by You we enter the morning and by You we enter the evening...",
+      "source": "رواه الترمذي • تكرار: ١",
+      "target": 1
+    },
+    {
+      "id": 103,
+      "text": "اللَّهُمَّ عافِني في بَدَني، اللَّهُمَّ عافِني في سَمْعي، اللَّهُمَّ عافِني في بَصَري، لا إلهَ إلَّا أنتَ.",
+      "translation": "O Allah, grant wellness to my body, my hearing, my sight...",
+      "source": "رواه أبو داود • تكرار: ٣",
+      "target": 3
+    }
+  ],
+  "evening": [
+    {
+      "id": 201,
+      "text": "أَمْسَيْنَا وَأَمْسَى الْمُلْكُ لِلَّهِ، وَالْحَمْدُ لِلَّهِ، لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ.",
+      "translation": "We have entered the evening and the kingdom belongs to Allah...",
+      "source": "رواه مسلم • تكرار: ١",
+      "target": 1
+    },
+    {
+      "id": 202,
+      "text": "اللّهُمَّ بِكَ أَمْسَيْنَا وَبِكَ أَصْبَحْنَا وَبِكَ نَحْيَا وَبِكَ نَمُوتُ وَإِلَيْكَ الْمَصِيرُ.",
+      "translation": "O Allah, by You we enter the evening and by You we enter the morning...",
+      "source": "رواه الترمذي • تكرار: ١",
+      "target": 1
+    },
+    {
+      "id": 203,
+      "text": "يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيثُ أَصْلِحْ لِي شَأْنِي كُلَّهُ وَلَا تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ.",
+      "translation": "O Ever Living, O Sustainer, in Your mercy I seek relief...",
+      "source": "رواه الحاكم • تكرار: ٣",
+      "target": 3
+    }
+  ],
+  "sleep": [
+    {
+      "id": 301,
+      "text": "بِاسْمِكَ رَبِّي وَضَعْتُ جَنْبِي وَبِكَ أَرْفَعُهُ، إِنْ أَمْسَكْتَ نَفْسِي فَارْحَمْهَا، وَإِنْ أَرْسَلْتَهَا فَاحْفَظْهَا بِمَا تَحْفَظُ بِهِ عِبَادَكَ الصَّالِحِينَ.",
+      "translation": "In Your name my Lord I lie down...",
+      "source": "رواه البخاري ومسلم • تكرار: ١",
+      "target": 1
+    },
+    {
+      "id": 302,
+      "text": "اللَّهُمَّ قِنِي عَذَابَكَ يَوْمَ تَبْعَثُ عِبَادَكَ.",
+      "translation": "O Allah, protect me from Your punishment...",
+      "source": "رواه أبو داود • تكرار: ٣",
+      "target": 3
+    }
+  ],
+  "wakeup": [
+    {
+      "id": 401,
+      "text": "الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ.",
+      "translation": "Praise be to Allah who gave us life...",
+      "source": "رواه البخاري • تكرار: ١",
+      "target": 1
+    },
+    {
+      "id": 402,
+      "text": "الحمدُ للهِ الذي عافاني في جَسَدي وَرَدَّ عَليَّ روحي وَأَذِنَ لي بِذِكْرِهِ.",
+      "translation": "Praise be to Allah who healed my body...",
+      "source": "الجامع الصغير • تكرار: ١",
+      "target": 1
+    }
+  ],
+  "duas": [
+    {
+      "id": 501,
+      "text": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ.",
+      "translation": "Our Lord, give us in this world that which is good...",
+      "source": "سورة البقرة • تكرار: ١",
+      "target": 1
+    },
+    {
+      "id": 502,
+      "text": "يَا مُقَلِّبَ الْقُلُوبِ ثَبِّتْ قَلْبِي عَلَىٰ دِينِكَ.",
+      "translation": "O Changer of hearts, keep my heart firm...",
+      "source": "رواه الترمذي • تكرار: ١",
+      "target": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "قرآني",
+    "slug": "qurani",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/images/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#121A16"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.aistudio.qurani"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/icon.png",
+        "backgroundColor": "#121A16"
+      },
+      "package": "com.aistudio.qurani"
+    },
+    "web": {
+      "favicon": "./assets/images/icon.png"
+    }
+  }
+}

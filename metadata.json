@@ -1,0 +1,6 @@
+{
+  "name": "قرآني",
+  "description": "An elegant, cinematic Quran and Athkar companion with high-end premium dark design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
